@@ -1,0 +1,33 @@
+Buffer Size:
+3
+
+Matrix:
+7A 55 E9 E9 1C 50
+53 7A 1C 7A E9 55
+BD 1C 7A 1C 55 BD
+BD 5X BD 7A 1C 1C
+1C 51 55 7A 55 7A
+51 1C 1C 55 E9 BD
+
+Sequences:
+E9 BD 1C E9 53
+7A 7A
+BD 1C
+7A
+
+Rewards:
+20
+20
+10
+-30
+
+Solution:
+(3, 3)
+(4, 3)
+
+Best Sequence:
+7A 7A
+
+Score: 80
+
+Execution Time: 0.00017 ms
